@@ -1,0 +1,11 @@
+.App{
+  width: 500px;
+  margin: 0 auto;
+  /* 일반적인 적용방법 */
+  display: flex;
+  /* 한줄로 때려박기 */
+  flex-direction: column;
+  /* 컬럼방식으로 */
+  gap: 10px;
+  /* 떨어뜨리기 */
+}
