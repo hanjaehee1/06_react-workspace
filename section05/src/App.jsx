@@ -54,7 +54,7 @@ function App() {
       <Button {...buttonProps}/>
       <Button text={"카페"}/>
       <Button text={"블로그"}>
-        <div>자식놈</div>
+        <div>자식</div>
         <Header/>
       </Button>
     </>
